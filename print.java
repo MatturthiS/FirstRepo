@@ -2,6 +2,6 @@ class print
 {
   public static void main(String args[])
   {
-    System.out.println("print this"):
+    System.out.println("print this");
   }
 }
